@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/xk7PRO/xk7PRO/output/snake.svg" alt="Snake animation" />
-
-###
